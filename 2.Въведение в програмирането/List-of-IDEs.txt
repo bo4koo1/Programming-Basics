@@ -1,0 +1,34 @@
+1.Eclipse is an integrated development environment (IDE). It contains a base workspace and an
+extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can 
+be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop
+applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, 
+Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala,
+Clojure, Groovy, Scheme, and Erlang.
+
+
+2.NetBeans is a software development platform written in Java. The NetBeans Platform allows applications 
+to be developed from a set of modular software components called modules. Applications based on the 
+NetBeans Platform, including the NetBeans integrated development environment (IDE), can be extended 
+by third party developers.NetBeans is cross-platform and runs on Microsoft Windows, Mac OS X, Linux,
+Solaris and other platforms supporting a compatible JVM.
+
+
+3.Turbo Pascal is a software development system that includes a compiler and an integrated development 
+environment (IDE) for the Pascal programming language running on CP/M, CP/M-86, and DOS, developed by 
+Borland under Philippe Kahn's leadership. From version 6 both a lower-priced Turbo Pascal and more
+expensive Borland Pascal were produced; Borland Pascal had more libraries and standard library source code. 
+The name Borland Pascal is also used more generically for Borland's dialect of Pascal.
+
+
+4.Xojo is a programming environment developed and commercially marketed by Xojo, Inc of Austin, Texas for
+software development targeting Mac OS X, Microsoft Windows, 32-bit x86 Linux, iOS, as well as the web. 
+Xojo uses a proprietary object-oriented BASIC dialect, also known as Xojo.Developers can use Xojo to 
+create applications by using drag-and-drop to build their user interface and then use one programming 
+language to enable the functionality of their application cross platform.
+
+
+5.Codenvy provides a container-based development environment whose goal is to remove the need for developers 
+to configure or maintain local or VM-based developer environments for their projects.Codenvy's platform is 
+hosted on a microservices architecture that provides isolated workspaces for developing, compiling, and 
+executing applications.Codenvy is available as SaaS or as downloadable software for on-premises installations 
+and is based on the Eclipse Foundation's Che project.
